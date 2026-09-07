@@ -103,6 +103,12 @@ Do not commit API keys, passwords, access tokens, or private credentials to GitH
 6. Run `sendPoemEmail()` for a manual end-to-end test.
 7. Create a time-driven trigger for `sendPoemEmail()` for scheduled execution.
 
+## Sample Output
+
+The agent automatically delivers the generated financial-news poem by email.
+
+![Sample Email](screenshots/sample-email.png)
+
 ## Skills Demonstrated
 
 - API Integration
